@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 夏小正戴氏傳
-#+DATE: 2015-09-23 09:38:39
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:11:16.981807
+#+PROPERTY: ID KR1d0077
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1d0077_WYG_001-1a>¶
 欽定四庫全書¶
 　夏小正戴氏傳卷一¶
@@ -110,4 +112,3 @@
 (言始相命以下脫簡在二月傳承/由胡者繁母今以大戴禮正其誤)¶
 　¶
 　夏小正戴氏傳卷一¶
-
